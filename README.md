@@ -1,1 +1,1 @@
-accessKey=2PbEDUkdnHBLNJgZpgIqGfkCmseTucUD8fZqChae0vc
+This is a gallery app built in React , it utilises the unsplash API.
